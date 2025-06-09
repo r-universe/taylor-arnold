@@ -4,19 +4,14 @@
 	branch = HEAD
 [submodule "cleanNLP"]
 	path = cleanNLP
-	url = https://github.com/taylor-arnold/cleannlp
+	url = https://github.com/taylor-arnold/rpkg
+	subdir = cleanNLP
 [submodule "coreNLP"]
 	path = coreNLP
 	url = https://github.com/cran/coreNLP
 [submodule "ctrialsgov"]
 	path = ctrialsgov
 	url = https://github.com/cran/ctrialsgov
-[submodule "ggimg"]
-	path = ggimg
-	url = https://github.com/taylor-arnold/ggimg
 [submodule "leaderCluster"]
 	path = leaderCluster
 	url = https://github.com/taylor-arnold/leadercluster
-[submodule "sotu"]
-	path = sotu
-	url = https://github.com/taylor-arnold/sotu
