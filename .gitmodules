@@ -12,6 +12,12 @@
 [submodule "ctrialsgov"]
 	path = ctrialsgov
 	url = https://github.com/cran/ctrialsgov
+[submodule "ggimg"]
+	path = ggimg
+	url = https://github.com/cran/ggimg
 [submodule "leaderCluster"]
 	path = leaderCluster
-	url = https://github.com/taylor-arnold/leadercluster
+	url = https://github.com/cran/leaderCluster
+[submodule "sotu"]
+	path = sotu
+	url = https://github.com/cran/sotu
